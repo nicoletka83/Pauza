@@ -1,1 +1,1 @@
-Pauza — krótkie info o projekcie i instrukcja uruchomienia.
+Pauza — aplikacja do zarządzania pauzami weekendowymi
